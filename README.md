@@ -1,4 +1,4 @@
-# hand-counting-detector
+# dactylonomy-cnn
 Convolutional Neural Network that determines which number is represented by a hand gesture (dactylonomy). Written using PyTorch.
 
 ## Acquiring Datset
